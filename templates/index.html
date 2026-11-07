@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Website SiteMap Analyzer</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>Website <span>SiteMap</span> Analyzer</h1>
+    <p>Discover pages, detect broken links, and export your sitemap.</p>
+  </header>
+
+  <main>
+    <form id="form">
+      <input id="url" type="text" value="https://bashcraftclub.vercel.app/" placeholder="https://example.com">
+      <label>Max pages <input id="max_pages" type="number" value="30" min="1" max="100"></label>
+      <label>Max depth <input id="max_depth" type="number" value="2" min="0" max="5"></label>
+      <label class="check"><input id="render_js" type="checkbox" checked> JS rendering</label>
+      <button id="go" type="submit">Analyze</button>
+    </form>
+
+    <div id="message" class="message hidden"></div>
+
+    <section id="results" class="hidden">
+      <div id="stats" class="stats"></div>
+
+      <div class="toolbar">
+        <div class="tabs">
+          <button class="tab active" data-tab="tree">Sitemap</button>
+          <button class="tab" data-tab="pages">Pages</button>
+          <button class="tab" data-tab="broken">Broken links</button>
+        </div>
+        <div class="exports">
+          <a href="/export/json">JSON</a>
+          <a href="/export/csv">CSV</a>
+          <a href="/export/broken">Broken CSV</a>
+        </div>
+      </div>
+
+      <input id="search" type="text" placeholder="Search (title ya URL)..." class="hidden">
+
+      <div id="tab-tree" class="panel"></div>
+      <div id="tab-pages" class="panel hidden"></div>
+      <div id="tab-broken" class="panel hidden"></div>
+    </section>
+  </main>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
