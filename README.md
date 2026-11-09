@@ -128,7 +128,7 @@ Discovered structure: `/`, `/about`, `/contact`, `/events` (4 event pages), `/te
 - **Development server:** Flask's built-in server is used. It is not intended for production deployment.
 - **Pages beyond max pages or max depth** are not crawled. Links found on them are still status-checked.
 - **No real-time crawl cancel:** a running crawl cannot be stopped from the UI.
-
+- **Transient failures:** a link that is slow at check time may be reported as a timeout even if it works. The checker retries once, but the result can still vary between runs.
 ## License
 
 Created as a recruitment task submission.

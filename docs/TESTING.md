@@ -82,6 +82,7 @@ Run these in the UI and write the real result in the last column.
 | 65 "broken" links reported | Same link counted on every page; LinkedIn blocks bots (999/429) | De-duplicated broken links; added restricted category |
 | `KeyError: 'pages'` | Result dictionary was edited incorrectly | Restored `pages` and `start_url` keys in the result |
 | "Failed to fetch" in browser | Flask server had been stopped | Keep the server running while using the UI |
+| Timeout reported on a valid GitHub link | A single slow response within the 8 s limit was treated as broken | Added one retry for timeouts and connection errors |
 
 ## 5. Not Tested
 

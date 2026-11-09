@@ -18,25 +18,29 @@ SKIP_EXTENSIONS = (".pdf", ".jpg", ".jpeg", ".png", ".gif", ".svg", ".webp",
                    ".zip", ".mp4", ".mp3", ".css", ".js", ".ico", ".xml")
 
 
-def check_link(url, timeout=8):
+def check_link(url, timeout=8, retries=1):
     """Ek link ka status check karta hai.
-    Return: (status_code, reason). Agar site hi na khule to (None, 'Timeout' etc.)"""
-    try:
-        resp = requests.head(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
-        # Kuch servers HEAD allow nahi karte, to GET se dobara try karo
-        if resp.status_code >= 400:
-            resp = requests.get(url, headers=HEADERS, timeout=timeout,
-                                allow_redirects=True, stream=True)
-            resp.close()
-        return resp.status_code, resp.reason or ""
-    except requests.exceptions.Timeout:
-        return None, "Timeout"
-    except requests.exceptions.SSLError:
-        return None, "SSL error"
-    except requests.exceptions.ConnectionError:
-        return None, "Cannot connect"
-    except requests.exceptions.RequestException:
-        return None, "Request failed"
+    Timeout ya connection error par ek baar dobara try karta hai.
+    Return: (status_code, reason). Site na khule to (None, 'Timeout' etc.)"""
+    last = (None, "Request failed")
+    for _ in range(retries + 1):
+        try:
+            resp = requests.head(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
+            # Kuch servers HEAD allow nahi karte, to GET se dobara try karo
+            if resp.status_code >= 400:
+                resp = requests.get(url, headers=HEADERS, timeout=timeout,
+                                    allow_redirects=True, stream=True)
+                resp.close()
+            return resp.status_code, resp.reason or ""
+        except requests.exceptions.Timeout:
+            last = (None, "Timeout")
+        except requests.exceptions.SSLError:
+            return None, "SSL error"
+        except requests.exceptions.ConnectionError:
+            last = (None, "Cannot connect")
+        except requests.exceptions.RequestException:
+            return None, "Request failed"
+    return last
 
 
 def is_broken(status):
@@ -52,7 +56,8 @@ class SiteCrawler:
         self.timeout = timeout
         self.render_js = render_js    # True ho to JS chalake links nikalega
         self._browser = None
-        self.robots = None        
+        self.robots = None     
+           
     def _load_robots(self):
         """robots.txt padhta hai. Na mile ya error aaye to sab allowed maanta hai."""
         parsed = urlparse(self.start_url)
