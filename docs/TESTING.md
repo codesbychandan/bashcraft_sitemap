@@ -58,7 +58,7 @@ Tested on **https://bashcraftclub.vercel.app/** through the web UI (max pages 30
 | 4 | LinkedIn links | Not reported as broken | 35 listed as restricted (status 999/429) |
 | 5 | JS-rendered links | Links found despite JS generation | With JS off: 0 links found. With JS on: 28 anchors on the homepage, 15 pages total |
 | 6 | Same title on all pages | Shown without errors | All pages show the same title (single-page app). Paths in the tree tell pages apart |
-| 7 | Export JSON / CSV / Broken CSV | Files download with correct data | _fill in after checking_ |
+| 7 | Export JSON / CSV / Broken CSV | Files download with correct data | All 3 files downloaded and opened correctly. Samples are saved in [docs/sample-output](sample-output/) |
 | 8 | Search and sort in Pages tab | Rows filter and reorder | _fill in after checking_ |
 
 ## 3. Manual Edge Case Tests

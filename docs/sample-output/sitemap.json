@@ -1,0 +1,660 @@
+{
+  "start_url": "https://bashcraftclub.vercel.app/",
+  "pages": [
+    {
+      "url": "https://bashcraftclub.vercel.app/",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 0,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/about",
+        "https://bashcraftclub.vercel.app/contact",
+        "https://bashcraftclub.vercel.app/events",
+        "https://bashcraftclub.vercel.app/team"
+      ],
+      "external_links": [
+        "https://bashcraft.substack.com/",
+        "https://docs.google.com/forms/d/e/1FAIpQLSet2OxNsCdiiDH-U512SJlDNXjHxsLrfaoO1Hh7-9DpFJz01Q/viewform",
+        "https://forms.gle/2Ro4kZnY9DGwKabv5",
+        "https://github.com/BashCraftClub",
+        "https://www.instagram.com/bashcraft.vit",
+        "https://www.linkedin.com/company/bashcraft",
+        "https://www.linkedin.com/in/anusha-singh-rajput-361096340?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/aryan-chaturvedi1602?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+        "https://www.linkedin.com/in/divyansh-agrawal-ab9117331",
+        "https://www.linkedin.com/in/prantik-kesariya",
+        "https://www.linkedin.com/in/vinehagupta"
+      ],
+      "internal_count": 4,
+      "external_count": 11
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/about",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 1,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/",
+        "https://bashcraftclub.vercel.app/contact",
+        "https://bashcraftclub.vercel.app/events",
+        "https://bashcraftclub.vercel.app/team"
+      ],
+      "external_links": [],
+      "internal_count": 4,
+      "external_count": 0
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/contact",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 1,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/",
+        "https://bashcraftclub.vercel.app/about",
+        "https://bashcraftclub.vercel.app/events",
+        "https://bashcraftclub.vercel.app/team"
+      ],
+      "external_links": [
+        "https://www.instagram.com/bashcraft.vit?igsh=OWpibHJ4bWYyazU2",
+        "https://www.linkedin.com/company/bashcraft"
+      ],
+      "internal_count": 4,
+      "external_count": 2
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/events",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 1,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/",
+        "https://bashcraftclub.vercel.app/about",
+        "https://bashcraftclub.vercel.app/contact",
+        "https://bashcraftclub.vercel.app/events/arpit-bhayani",
+        "https://bashcraftclub.vercel.app/events/bashnex26",
+        "https://bashcraftclub.vercel.app/events/investathon",
+        "https://bashcraftclub.vercel.app/events/social-loop",
+        "https://bashcraftclub.vercel.app/team"
+      ],
+      "external_links": [],
+      "internal_count": 8,
+      "external_count": 0
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/team",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 1,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/",
+        "https://bashcraftclub.vercel.app/about",
+        "https://bashcraftclub.vercel.app/contact",
+        "https://bashcraftclub.vercel.app/events",
+        "https://bashcraftclub.vercel.app/team/content",
+        "https://bashcraftclub.vercel.app/team/design",
+        "https://bashcraftclub.vercel.app/team/events",
+        "https://bashcraftclub.vercel.app/team/pr",
+        "https://bashcraftclub.vercel.app/team/social",
+        "https://bashcraftclub.vercel.app/team/web-dev"
+      ],
+      "external_links": [
+        "http://linkedin.com/in/arun-chaudhary-9b9547363",
+        "http://www.linkedin.com/in/harshita-yadav-b4758132a",
+        "http://www.linkedin.com/in/megh-joshi-35a681379",
+        "https://bashcraft.substack.com/",
+        "https://github.com/BashCraftClub",
+        "https://www.instagram.com/bashcraft.vit",
+        "https://www.linkedin.com/company/bashcraft",
+        "https://www.linkedin.com/in/aditi-singh-6aa56a379?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/aditya-rajput-260191384?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/ameesha-kumari-663855411?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/anmol-panjwani-0b6407379?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/anushka-yadav-118b14390",
+        "https://www.linkedin.com/in/apoorav-raina-82a800343?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/avin-pareek-8ba67b3a8?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/deepanshu-arora-1b6254394",
+        "https://www.linkedin.com/in/hardik-pratap-singh-83b809397?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/irfan-a-5440b51b8?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/janvee-gupta-57b8b940b",
+        "https://www.linkedin.com/in/kshitij-jha-5b2b48377?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/mridul-sharma-637160307?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+        "https://www.linkedin.com/in/omshrivastava",
+        "https://www.linkedin.com/in/priyansh-saxena-45885a37b?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/raunak-sharma-b91650344",
+        "https://www.linkedin.com/in/ridhima-pandey-980a21270?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/rishabh-kapoor-755a4639b",
+        "https://www.linkedin.com/in/samriddh-sinha-65915b313",
+        "https://www.linkedin.com/in/saumya-dayal-8a65a7377",
+        "https://www.linkedin.com/in/shivi-sanjay-326a84324?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/shrikant-nimbhorkar-5a18ba372?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+        "https://www.linkedin.com/in/shrinivas-medewar-374a86219?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/sumit-sumit-34b109381?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/sunny-yadav-513996338",
+        "https://www.linkedin.com/in/vardaan-yadav-51b5b93ba?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/yashvi-ghaatiya-31909a424",
+        "https://www.linkedin.com/in/yuvraj-rajoriya-20b590323?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      ],
+      "internal_count": 10,
+      "external_count": 35
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/events/arpit-bhayani",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 2,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/events"
+      ],
+      "external_links": [],
+      "internal_count": 1,
+      "external_count": 0
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/events/bashnex26",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 2,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/events"
+      ],
+      "external_links": [],
+      "internal_count": 1,
+      "external_count": 0
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/events/investathon",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 2,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/events"
+      ],
+      "external_links": [],
+      "internal_count": 1,
+      "external_count": 0
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/events/social-loop",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 2,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/events"
+      ],
+      "external_links": [],
+      "internal_count": 1,
+      "external_count": 0
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/team/content",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 2,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/",
+        "https://bashcraftclub.vercel.app/about",
+        "https://bashcraftclub.vercel.app/contact",
+        "https://bashcraftclub.vercel.app/events",
+        "https://bashcraftclub.vercel.app/team"
+      ],
+      "external_links": [
+        "https://bashcraft.substack.com/",
+        "https://github.com/BashCraftClub",
+        "https://www.instagram.com/bashcraft.vit",
+        "https://www.linkedin.com/company/bashcraft",
+        "https://www.linkedin.com/in/irfan-a-5440b51b8?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/shivi-sanjay-326a84324?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/sumit-sumit-34b109381?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/yuvraj-rajoriya-20b590323?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      ],
+      "internal_count": 5,
+      "external_count": 8
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/team/design",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 2,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/",
+        "https://bashcraftclub.vercel.app/about",
+        "https://bashcraftclub.vercel.app/contact",
+        "https://bashcraftclub.vercel.app/events",
+        "https://bashcraftclub.vercel.app/team"
+      ],
+      "external_links": [
+        "http://www.linkedin.com/in/megh-joshi-35a681379",
+        "https://bashcraft.substack.com/",
+        "https://github.com/BashCraftClub",
+        "https://www.instagram.com/bashcraft.vit",
+        "https://www.linkedin.com/company/bashcraft",
+        "https://www.linkedin.com/in/saumya-dayal-8a65a7377",
+        "https://www.linkedin.com/in/sunny-yadav-513996338"
+      ],
+      "internal_count": 5,
+      "external_count": 7
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/team/events",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 2,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/",
+        "https://bashcraftclub.vercel.app/about",
+        "https://bashcraftclub.vercel.app/contact",
+        "https://bashcraftclub.vercel.app/events",
+        "https://bashcraftclub.vercel.app/team"
+      ],
+      "external_links": [
+        "http://linkedin.com/in/arun-chaudhary-9b9547363",
+        "http://www.linkedin.com/in/harshita-yadav-b4758132a",
+        "https://bashcraft.substack.com/",
+        "https://github.com/BashCraftClub",
+        "https://www.instagram.com/bashcraft.vit",
+        "https://www.linkedin.com/company/bashcraft",
+        "https://www.linkedin.com/in/anmol-panjwani-0b6407379?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/avin-pareek-8ba67b3a8?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/janvee-gupta-57b8b940b",
+        "https://www.linkedin.com/in/priyansh-saxena-45885a37b?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/rishabh-kapoor-755a4639b",
+        "https://www.linkedin.com/in/vardaan-yadav-51b5b93ba?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      ],
+      "internal_count": 5,
+      "external_count": 12
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/team/pr",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 2,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/",
+        "https://bashcraftclub.vercel.app/about",
+        "https://bashcraftclub.vercel.app/contact",
+        "https://bashcraftclub.vercel.app/events",
+        "https://bashcraftclub.vercel.app/team"
+      ],
+      "external_links": [
+        "https://bashcraft.substack.com/",
+        "https://github.com/BashCraftClub",
+        "https://www.instagram.com/bashcraft.vit",
+        "https://www.linkedin.com/company/bashcraft",
+        "https://www.linkedin.com/in/aditya-rajput-260191384?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/deepanshu-arora-1b6254394",
+        "https://www.linkedin.com/in/hardik-pratap-singh-83b809397?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/omshrivastava",
+        "https://www.linkedin.com/in/yashvi-ghaatiya-31909a424"
+      ],
+      "internal_count": 5,
+      "external_count": 9
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/team/social",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 2,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/",
+        "https://bashcraftclub.vercel.app/about",
+        "https://bashcraftclub.vercel.app/contact",
+        "https://bashcraftclub.vercel.app/events",
+        "https://bashcraftclub.vercel.app/team"
+      ],
+      "external_links": [
+        "https://bashcraft.substack.com/",
+        "https://github.com/BashCraftClub",
+        "https://www.instagram.com/bashcraft.vit",
+        "https://www.linkedin.com/company/bashcraft",
+        "https://www.linkedin.com/in/apoorav-raina-82a800343?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/kshitij-jha-5b2b48377?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/mridul-sharma-637160307?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+        "https://www.linkedin.com/in/ridhima-pandey-980a21270?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/samriddh-sinha-65915b313",
+        "https://www.linkedin.com/in/shrikant-nimbhorkar-5a18ba372?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+      ],
+      "internal_count": 5,
+      "external_count": 10
+    },
+    {
+      "url": "https://bashcraftclub.vercel.app/team/web-dev",
+      "title": "BashCraft Club \u2014 no fluff; just engineering",
+      "status": 200,
+      "error": "",
+      "depth": 2,
+      "internal_links": [
+        "https://bashcraftclub.vercel.app/",
+        "https://bashcraftclub.vercel.app/about",
+        "https://bashcraftclub.vercel.app/contact",
+        "https://bashcraftclub.vercel.app/events",
+        "https://bashcraftclub.vercel.app/team"
+      ],
+      "external_links": [
+        "https://bashcraft.substack.com/",
+        "https://github.com/BashCraftClub",
+        "https://www.instagram.com/bashcraft.vit",
+        "https://www.linkedin.com/company/bashcraft",
+        "https://www.linkedin.com/in/aditi-singh-6aa56a379?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/ameesha-kumari-663855411?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "https://www.linkedin.com/in/anushka-yadav-118b14390",
+        "https://www.linkedin.com/in/raunak-sharma-b91650344",
+        "https://www.linkedin.com/in/shrinivas-medewar-374a86219?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      ],
+      "internal_count": 5,
+      "external_count": 9
+    }
+  ],
+  "broken_links": [
+    {
+      "url": "https://github.com/BashCraftClub",
+      "found_on": "https://bashcraftclub.vercel.app/",
+      "type": "external",
+      "status": null,
+      "reason": "Timeout",
+      "occurrences": 8
+    }
+  ],
+  "restricted_links": [
+    {
+      "url": "https://www.linkedin.com/in/anusha-singh-rajput-361096340?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 1
+    },
+    {
+      "url": "https://www.linkedin.com/in/aryan-chaturvedi1602?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+      "found_on": "https://bashcraftclub.vercel.app/",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 1
+    },
+    {
+      "url": "https://www.linkedin.com/in/divyansh-agrawal-ab9117331",
+      "found_on": "https://bashcraftclub.vercel.app/",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 1
+    },
+    {
+      "url": "https://www.linkedin.com/in/prantik-kesariya",
+      "found_on": "https://bashcraftclub.vercel.app/",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 1
+    },
+    {
+      "url": "https://www.linkedin.com/in/vinehagupta",
+      "found_on": "https://bashcraftclub.vercel.app/",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 1
+    },
+    {
+      "url": "http://www.linkedin.com/in/harshita-yadav-b4758132a",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "http://www.linkedin.com/in/megh-joshi-35a681379",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/aditi-singh-6aa56a379?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/aditya-rajput-260191384?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/ameesha-kumari-663855411?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/anmol-panjwani-0b6407379?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/anushka-yadav-118b14390",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/apoorav-raina-82a800343?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/avin-pareek-8ba67b3a8?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/deepanshu-arora-1b6254394",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/hardik-pratap-singh-83b809397?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/irfan-a-5440b51b8?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/janvee-gupta-57b8b940b",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/kshitij-jha-5b2b48377?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/mridul-sharma-637160307?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/omshrivastava",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/priyansh-saxena-45885a37b?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/raunak-sharma-b91650344",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/ridhima-pandey-980a21270?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/rishabh-kapoor-755a4639b",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/samriddh-sinha-65915b313",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/saumya-dayal-8a65a7377",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/shivi-sanjay-326a84324?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/shrikant-nimbhorkar-5a18ba372?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/shrinivas-medewar-374a86219?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/sumit-sumit-34b109381?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/sunny-yadav-513996338",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/vardaan-yadav-51b5b93ba?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/yashvi-ghaatiya-31909a424",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 429,
+      "reason": "Too Many Requests",
+      "occurrences": 2
+    },
+    {
+      "url": "https://www.linkedin.com/in/yuvraj-rajoriya-20b590323?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "found_on": "https://bashcraftclub.vercel.app/team",
+      "type": "external",
+      "status": 999,
+      "reason": "<none>",
+      "occurrences": 2
+    }
+  ],
+  "stats": {
+    "pages_discovered": 15,
+    "internal_links": 15,
+    "external_links": 43,
+    "broken_links": 1,
+    "restricted_links": 35
+  }
+}
