@@ -44,6 +44,8 @@ python -m pytest -v
 | Unreachable site via API | Homepage cannot connect | HTTP 502 | Pass |
 | Export before analysis | `/export/json`, `/export/csv`, `/export/broken` | HTTP 404 | Pass |
 
+![Error example](screenshots/error-example.png)
+
 ## 2. Manual Tests on the BashCraft Website
 
 Tested on **https://bashcraftclub.vercel.app/** through the web UI (max pages 30, max depth 2, JS rendering on).
@@ -65,14 +67,15 @@ Run these in the UI and write the real result in the last column.
 
 | # | Input / Action | Expected | Actual |
 |---|---|---|---|
-| 9 | Empty URL box, click Analyze | Error: URL is empty | _fill in_ |
-| 10 | URL `abc` | Error: Invalid domain | _fill in_ |
-| 11 | URL `bashcraftclub.vercel.app` (no https) | Works, https added automatically | _fill in_ |
-| 12 | URL `https://this-site-does-not-exist-12345.com` | Error: Website cannot be reached | _fill in_ |
-| 13 | Max depth = 0 | Only the homepage is crawled | _fill in_ |
-| 14 | Max pages = 3 | Exactly 3 pages | _fill in_ |
-| 15 | JS rendering unticked on BashCraft | Fewer or no links found (documented limitation) | _fill in_ |
-| 16 | A different site, e.g. `https://example.com` | 1 page, external link(s), no crash | _fill in_ |
+| 9 | Empty URL box, click Analyze | Error: URL is empty | red error box showed "URL is empty. please enter a URL." |
+| 10 | URL `abc` | Error: Invalid domain | Red error box showed"“Invalid domain (e.g. example.com).” |
+| 11 | URL `bashcraftclub.vercel.app` (no https) | Works, https added automatically | lin open perfectly and showed " 15 pages etc." |
+| 12 | URL `https://this-site-does-not-exist-12345.com` | Error: Website cannot be reached | Red error box showed "Website cannot be reached (Cannot connect)." |
+| 13 | Max depth = 0 | Only the homepage is crawled | "only one page is found ( home page) and 4 internal , 11 external , 0 broken links found." |
+| 14 | Max pages = 3 | Exactly 3 pages |  " 3 pages found with 5 internal , 12 external , 0 broken links."|
+| 15 | JS rendering unticked on BashCraft | Fewer or no links found (documented limitation) | "only one page is found with 0 internal , 0 external ,0 broken links "|
+| 16 | A different site, e.g. `https://example.com` | 1 page, external link(s), no crash | one page with 1 external link found |
+
 
 ## 4. Bugs Found During Testing
 
